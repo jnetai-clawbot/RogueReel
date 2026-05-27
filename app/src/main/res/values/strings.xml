@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rogue Reel</string>
+    <string name="about_title">About Rogue Reel</string>
+    <string name="made_by">Made by jnetai.com</string>
+    <string name="check_update">Check for Update</string>
+    <string name="share_app">Share App</string>
+    <string name="share_message">Check out Rogue Reel - an immersive sonar navigation game! https://github.com/jnetai-clawbot/RogueReel/releases/latest</string>
+    <string name="checking_update">Checking for updates…</string>
+    <string name="up_to_date">You\'re up to date!</string>
+    <string name="update_available">New version %1$s available!</string>
+    <string name="error_check">Could not check for updates</string>
+    <string name="how_to_play">How to Play</string>
+    <string name="how_to_desc">Tap to send sonar pings that reveal the cave around you. Long-press to aim and release a directional blast that stuns enemies. Navigate through the alien cavern and reach the surface — but beware: sound attracts echo-sensitive creatures!</string>
+    <string name="score_label">Depth: %1$d m</string>
+    <string name="game_over">Game Over</string>
+    <string name="restart">Tap to Restart</string>
+</resources>

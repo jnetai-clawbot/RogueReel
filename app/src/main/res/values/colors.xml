@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="dark_bg">#FF0A0A1A</color>
+    <color name="sonar_green">#FF00FF88</color>
+    <color name="sonar_fade">#3300FF88</color>
+    <color name="wall_color">#FF1A2A3A</color>
+    <color name="wall_revealed">#FF234A6A</color>
+    <color name="enemy_color">#FFFF3344</color>
+    <color name="enemy_stunned">#FF886622</color>
+    <color name="player_color">#FF00CCFF</color>
+    <color name="hud_text">#FFCCCCCC</color>
+    <color name="accent">#FF00FF88</color>
+    <color name="accent_dark">#FF006644</color>
+    <color name="card_bg">#FF151528</color>
+    <color name="surface">#FF1E1E33</color>
+    <color name="on_surface">#FFCCCCCC</color>
+    <color name="outline">#FF333355</color>
+    <color name="ripple">#1A00FF88</color>
+</resources>

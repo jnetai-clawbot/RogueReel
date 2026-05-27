@@ -4,7 +4,7 @@
     <string name="made_by">Made by jnetai.com</string>
     <string name="check_update">Check for Update</string>
     <string name="share_app">Share App</string>
-    <string name="share_message">Check out Rogue Reel - an immersive sonar navigation game! https://github.com/jnetai-clawbot/RogueReel/releases/latest</string>
+    <string name="share_message">Check out Rogue Reel - fight through film frames! https://github.com/jnetai-clawbot/RogueReel/releases/latest</string>
     <string name="checking_update">Checking for updates…</string>
     <string name="up_to_date">You\'re up to date!</string>
     <string name="update_available">New version %1$s available!</string>
